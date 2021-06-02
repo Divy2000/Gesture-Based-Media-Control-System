@@ -6,7 +6,7 @@ To Download Full Model Folder:- [Download Link](https://drive.google.com/drive/f
 To Download All Numpy Data File:- [Download Link](https://drive.google.com/drive/folders/1cqRjCj4u6XvJTECWRfcNCGlmKsK37ccX?usp=sharing) <br />
 
 # Folder Structure
-
+```
 📦AI model
  ┣ 📂datasets
  ┃ ┣ 📂Down
@@ -39,3 +39,4 @@ To Download All Numpy Data File:- [Download Link](https://drive.google.com/drive
  ┣ 📜get_mobilenet.py
  ┣ 📜model.py
  ┗ 📜train_test_split.py
+```
