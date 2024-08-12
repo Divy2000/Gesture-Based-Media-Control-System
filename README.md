@@ -8,6 +8,9 @@ This project demonstrates a gesture-based media control system that allows users
 - **Preprocessing**: Applied preprocessing and augmentation techniques to enhance gesture recognition accuracy to 95%.
 - **Model Development**: Developed a gesture recognition model and integrated it with media controls for hands-free operation.
 
+## Demo Link 
+[Demo of Hand Gesture Recognition For Human Computer Interaction](https://youtu.be/TA2x1n3wu9c)
+
 ## Folder Structure
 ```
 📦AI model
@@ -43,5 +46,3 @@ This project demonstrates a gesture-based media control system that allows users
  ┣ 📜model.py
  ┗ 📜train_test_split.py
 ```
-## Demo Link 
-[Demo of Hand Gesture Recognition For Human Computer Interaction](https://youtu.be/TA2x1n3wu9c)
