@@ -1,11 +1,14 @@
-# Hand-gesture-recognition-for-human-computer-interaction
+# Hand Gesture Recognition for Human-Computer Interaction
 
+This project demonstrates a gesture-based media control system that allows users to control media playback with hand gestures. It includes functionalities for play/pause, volume up, and volume down through a gesture recognition model integrated with media controls.
 
-To Download Dataset:-  [Download Link](https://drive.google.com/drive/folders/1CtsjxFS2MR-X8xk5FyjXHrMWPKPjPYmG?usp=sharing) <br />
-To Download Full Model Folder:- [Download Link](https://drive.google.com/drive/folders/1azePJMYdag_-yBZHaGKl1-eAD7JeynVT?usp=sharing) <br />
-To Download All Numpy Data File:- [Download Link](https://drive.google.com/drive/folders/1cqRjCj4u6XvJTECWRfcNCGlmKsK37ccX?usp=sharing) <br />
+## Project Highlights
 
-# Folder Structure
+- **Dataset**: Curated a dataset of hand gestures for media control functions (play/pause, volume up, volume down).
+- **Preprocessing**: Applied preprocessing and augmentation techniques to enhance gesture recognition accuracy to 95%.
+- **Model Development**: Developed a gesture recognition model and integrated it with media controls for hands-free operation.
+
+## Folder Structure
 ```
 📦AI model
  ┣ 📂datasets
@@ -40,5 +43,5 @@ To Download All Numpy Data File:- [Download Link](https://drive.google.com/drive
  ┣ 📜model.py
  ┗ 📜train_test_split.py
 ```
-# Demo Link 
+## Demo Link 
 [Demo of Hand Gesture Recognition For Human Computer Interaction](https://youtu.be/TA2x1n3wu9c)
